@@ -1,0 +1,3 @@
+--- georgebrown.ca ping statistics ---
+9 packets transmitted, 9 received, 0% packet loss, time 8013ms
+rtt min/avg/max/mdev = 8.296/8.447/9.065/0.225 ms
