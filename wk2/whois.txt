@@ -1,0 +1,188 @@
+Facebook:
+
+Domain Information
+Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+A.NS.FACEBOOK.COM
+B.NS.FACEBOOK.COM
+C.NS.FACEBOOK.COM
+D.NS.FACEBOOK.COMDates
+Registry Expiration: 2028-03-30 04:00:00 UTC
+Created: 1997-03-29 05:00:00 UTC
+Registrar Information
+Name: RegistrarSafe, LLC
+IANA ID: 3237
+Abuse contact email: abusecomplaints@registrarsafe.com
+Abuse contact phone: tel:+1-650-308-7004
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap.verisign.com/com/v1/domain/facebook.com
+Last updated from Registry RDAP DB: 2021-01-28 06:35:00 UTC
+Registrar Server URL: https://rdap.registrarsafe.com/domain/FACEBOOK.COM
+
+------------------
+Twitter:
+
+Domain Information
+Name: TWITTER.COM
+Registry Domain ID: 18195971_DOMAIN_COM-VRSN
+Domain Status:
+clientTransferProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Nameservers:
+A.R06.TWTRDNS.NET
+B.R06.TWTRDNS.NET
+C.R06.TWTRDNS.NET
+D.R06.TWTRDNS.NET
+D01-01.NS.TWTRDNS.NET
+D01-02.NS.TWTRDNS.NET
+NS3.P34.DYNECT.NET
+NS4.P34.DYNECT.NETDates
+Registry Expiration: 2022-01-21 16:28:17 UTC
+Created: 2000-01-21 16:28:17 UTC
+Registrar Information
+Name: CSC Corporate Domains, Inc.
+IANA ID: 299
+Abuse contact email: domainabuse@cscglobal.com
+Abuse contact phone: tel:8887802723
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap.verisign.com/com/v1/domain/twitter.com
+Last updated from Registry RDAP DB: 2021-01-28 06:35:00 UTC
+Registrar Server URL: https://apis.cscglobal.com/dbs/rdap-api/v1/domain/TWITTER.COM
+
+-----------
+LastFM
+
+Domain Information
+Name: LASTFM.COM
+Registry Domain ID: 86273639_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+DNS1.P09.NSONE.NET
+DNS2.P09.NSONE.NET
+JOHN.NS.CLOUDFLARE.COM
+OPHELIA.NS.CLOUDFLARE.COMDates
+Registry Expiration: 2022-05-05 14:33:51 UTC
+Created: 2002-05-05 14:33:51 UTC
+Registrar Information
+Name: MarkMonitor Inc.
+IANA ID: 292
+Abuse contact email: abusecomplaints@markmonitor.com
+Abuse contact phone: +1.2083895770
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap.verisign.com/com/v1/domain/lastfm.com
+Last updated from Registry RDAP DB: 2021-01-28 06:48:06 UTC
+Registrar Server URL: https://rdap.markmonitor.com/rdap/domain/LASTFM.COM
+Last updated from Registrar RDAP DB: 2021-01-05 05:11:32 UTC
+
+-----------
+Genius
+
+Domain Information
+Name: GENIUS.COM
+Registry Domain ID: 474123_DOMAIN_COM-VRSN
+Domain Status:
+clientTransferProhibited
+Nameservers:
+CODY.NS.CLOUDFLARE.COM
+GAIL.NS.CLOUDFLARE.COMDates
+Registry Expiration: 2030-08-04 04:00:00 UTC
+Created: 1994-08-05 04:00:00 UTC
+Contact Information
+Registrant:
+Name: Media Group, Genius
+Organization: Genius Media Group Inc.
+Email: domainadmin@genius.com
+Tel: 6172518329
+Fax: 6468956316
+Mailing Address: 92 3rd St, Brooklyn, NY, 11231, US
+Technical:
+Name: Inc., NameSecure
+Organization: Namesecure Inc.
+Email: support@namesecure.com
+Tel: +1.5707088418
+Mailing Address: P.O. Box 785, Herndon, VA, 20172, US
+Administrative:
+Name: Media Group, Genius
+Organization: Genius Media Group Inc.
+Email: domainadmin@genius.com
+Tel: 6172518329
+Fax: 6468956316
+Mailing Address: 92 3rd St, Brooklyn, NY, 11231, US
+Abuse:
+Email: abuse@web.com
+Tel: +1.8888012112
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap.verisign.com/com/v1/domain/genius.com
+Last updated from Registry RDAP DB: 2021-01-28 06:35:00 UTC
+Registrar Server URL: https://rdap.namesecure.com/rdap/domain/GENIUS.COM
+
+----------
+Chatime
+
+Domain Information
+Name: CHATIME.COM
+Registry Domain ID: 85007341_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+clientRenewProhibited
+clientTransferProhibited
+clientUpdateProhibited
+Nameservers:
+NS1.GREENGEEKS.COM
+NS2.GREENGEEKS.COMDates
+Registry Expiration: 2021-03-29 16:34:08 UTC
+Created: 2002-03-29 17:34:08 UTC
+Contact Information
+Registrant:
+Name: Registration Private
+Organization: Domains By Proxy, LLC
+Email: CHATIME.COM@domainsbyproxy.com
+Mailing Address: DomainsByProxy.com 14455 N. Hayden Road, Scottsdale, Arizona, 85260, United States
+Technical:
+Name: Registration Private
+Organization: Domains By Proxy, LLC
+Email: CHATIME.COM@domainsbyproxy.com
+Mailing Address: DomainsByProxy.com 14455 N. Hayden Road, Scottsdale, Arizona, 85260, United States
+Administrative:
+Name: Registration Private
+Organization: Domains By Proxy, LLC
+Email: CHATIME.COM@domainsbyproxy.com
+Mailing Address: DomainsByProxy.com 14455 N. Hayden Road, Scottsdale, Arizona, 85260, United States
+Billing:
+Name: Registration Private
+Organization: Domains By Proxy, LLC
+Email: CHATIME.COM@domainsbyproxy.com
+Mailing Address: DomainsByProxy.com 14455 N. Hayden Road, Scottsdale, Arizona, 85260, United States
+Registrar Information
+Name: GoDaddy.com, LLC
+IANA ID: 146
+Abuse contact email: abuse@godaddy.com
+Abuse contact phone: tel:480-624-2505
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
+Registry Server URL: https://rdap.verisign.com/com/v1/domain/chatime.com
+Last updated from Registry RDAP DB: 2021-01-28 06:48:06 UTC
+Registrar Server URL: https://rdap.godaddy.com/v1/domain/CHATIME.COM
+Last updated from Registrar RDAP DB: 2021-01-28 16:02:59 UTC
