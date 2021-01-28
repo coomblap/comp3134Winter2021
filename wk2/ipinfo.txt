@@ -1,0 +1,44 @@
+1) oklou.com: 52.211.204.198
+Country: Ireland
+Region: Dublin
+City: Dublin
+ISP: Amazon Data Services Ireland Limited
+Organization: Not Available
+Latitude: 53.3440
+Longitude: -6.2672
+
+2) pcmusic.info: 66.6.44.4
+Country: United States of America
+Region: New York
+City: New York
+ISP: Tumblr Inc.
+Organization: Not Available
+Latitude: 40.7393	
+Longitude: -73.9850
+
+3) bandcamp.com 151.101.65.28
+Country: United States of America
+Region: California
+City: San Francisco
+ISP: Fastly
+Organization: Not Available
+Latitude: 37.7757
+Longitude: -122.3952
+
+4) uniqlo.com 52.69.1.66
+Country: Japan
+Region: Tokyo
+City: Tokyo
+ISP: Amazon Data Services Japan
+Organization: Not Available
+Latitude: 35.6895	
+Longitude: 139.6917
+
+5) github.com 192.30.255.113
+Country: United States of America
+Region: California
+City: San Francisco
+ISP: GitHub Inc.	
+Organization: Not Available
+Latitude: 37.7757
+Longitude: -122.3952
