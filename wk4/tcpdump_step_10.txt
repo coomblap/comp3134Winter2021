@@ -1,0 +1,11 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 port 22 -c 5
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+02:10:34.236472 IP 134.122.47.167.ssh > 38.64.227.143.56749: Flags [P.], seq 3070225254:3070225362, ack 2778208943, win 501, length 108
+02:10:34.236570 IP 134.122.47.167.ssh > 38.64.227.143.56749: Flags [P.], seq 108:144, ack 1, win 501, length 36
+02:10:34.236645 IP 134.122.47.167.ssh > 38.64.227.143.56749: Flags [P.], seq 144:252, ack 1, win 501, length 108
+02:10:34.236727 IP 134.122.47.167.ssh > 38.64.227.143.56749: Flags [P.], seq 252:288, ack 1, win 501, length 36
+02:10:34.253859 IP 38.64.227.143.56749 > 134.122.47.167.ssh: Flags [.], ack 108, win 4113, length 0
+5 packets captured
+16 packets received by filter
+0 packets dropped by kernel
