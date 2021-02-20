@@ -1,0 +1,2 @@
+6) service ssh restart
+7) ssh -p 2222
