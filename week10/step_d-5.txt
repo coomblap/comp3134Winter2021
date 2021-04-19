@@ -1,1 +1,0 @@
-- The browser shows the parent directory

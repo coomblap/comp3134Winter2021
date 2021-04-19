@@ -1,1 +1,0 @@
-I mitigated the problem by adding html and body tags in php
