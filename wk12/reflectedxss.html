@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Page Title</title>
+</head>
+<body data-new-gr-c-s-check-loaded="14.1006.0" data-gr-ext-installed="">
+    <h1>Page header</h1>
+    <form method="post" id="theForm" action="http://134.122.47.167/reflectedxss.html" onsubmit="event.preventDefault(); executeForm();">
+        <input id="input" type="text" name="name" value="">
+        <input type="submit" value="submit">
+    </form>
+    <div>
+        <div id="displayInput">Thinh</div>
+    </div>
+<script>
+    function executeForm(){
+        document.getElementById("displayInput").innerHTML = document.getElementById("input").value;
+    }
+</script>
+
+
+</body></html>
