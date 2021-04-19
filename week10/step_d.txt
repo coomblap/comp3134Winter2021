@@ -1,2 +1,0 @@
-- The browser failed to open since there's no such file or directory
-- Relative paths generally don't work well in PHP
